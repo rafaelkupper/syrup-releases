@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Syrup</title>
         <item>
             <title>0.8</title>
-            <pubDate>Mon, 02 Nov 2026 01:51:15 -0300</pubDate>
+            <pubDate>Mon, 02 Nov 2026 19:53:58 -0300</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rafaelkupper/syrup-releases/releases/download/v0.8/Syrup-0.8.zip" length="27061101" type="application/octet-stream" sparkle:edSignature="f0D9PDSPDGG9I/gtwkglU9JoD+pBsPyCSKpBIRh1VKEV5djJUp8IQwZwsIrK5RAm9Am6ILDfV0Fk+AV5EcaWBw=="/>
+            <enclosure url="https://github.com/rafaelkupper/syrup-releases/releases/download/v0.8/Syrup-0.8.zip" length="26997317" type="application/octet-stream" sparkle:edSignature="bT25Jwi5bJ16iUCVVx/zqked717Opu0LhftEyIq3nBQs1u0p7DUNr5PXCuhbAAYtLnVhD9nHoy1dK5VBG1gdDw=="/>
         </item>
     </channel>
 </rss>
