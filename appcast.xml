@@ -3,6 +3,14 @@
     <channel>
         <title>Syrup</title>
         <item>
+            <title>0.10.2</title>
+            <pubDate>Thu, 05 Nov 2026 18:01:15 -0300</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.10.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/rafaelkupper/syrup-releases/releases/download/v0.10.2/Syrup-0.10.2.zip" length="27311338" type="application/octet-stream" sparkle:edSignature="C4WsGpUDBZzBW3QoWGkl8hpGd7JO9r07R4k8yheTCAP2PTahEPJKW27GJpRbMeuxy6BDQRbXn4hFuULPUnwQDw=="/>
+        </item>
+        <item>
             <title>0.10.1</title>
             <pubDate>Thu, 05 Nov 2026 17:08:06 -0300</pubDate>
             <sparkle:version>11</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/rafaelkupper/syrup-releases/releases/download/v0.10/Syrup-0.10.zip" length="27310539" type="application/octet-stream" sparkle:edSignature="lo6ZSDGblEJKk+iuwlkGrabA2sSMprMg+kgjmlWE9teDO2umcWhmp98S2051X9HR1ObL6d6Ie64h0w+tgzIlDA=="/>
-        </item>
-        <item>
-            <title>0.9</title>
-            <pubDate>Mon, 02 Nov 2026 20:49:22 -0300</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rafaelkupper/syrup-releases/releases/download/v0.9/Syrup-0.9.zip" length="27005690" type="application/octet-stream" sparkle:edSignature="8VDrZoSPZdu6AZk9PZhpC+NMpE/8SsMUeU6+mlYem3JIc1u3nMJ5kZ9BDgJEF4LUrCIdwLJ+VOg4HD0VNTwBBA=="/>
         </item>
     </channel>
 </rss>
